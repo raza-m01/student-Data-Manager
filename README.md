@@ -22,3 +22,8 @@ As we all know, CSV(Comma Separated Values) files are easier to share as it can 
    >> Delete Any Student's Records by Id.
 1. Search
    >> View any  Student's Records by Id.
+
+![add_record](https://github.com/raza-m01/student-Data-Manager/assets/113848902/98769c2e-10c7-488f-a3c2-11d91f14b496)
+![admin_menu](https://github.com/raza-m01/student-Data-Manager/assets/113848902/c2823ca7-71fc-4e3a-8275-9dbac4a06172)
+![delete_record](https://github.com/raza-m01/student-Data-Manager/assets/113848902/e68f7b3c-f124-4192-b9c8-61cc3ce16f7b)
+![view_record](https://github.com/raza-m01/student-Data-Manager/assets/113848902/1313a3f2-a4d7-46b6-a9af-2582548ca12b)
